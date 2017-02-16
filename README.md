@@ -64,8 +64,9 @@ Your function must return either some positive integer k (denoting the minimum n
 000100 contains leading zeros, and is also not a power of 5. Because no valid k exists, we return −1.
 
 # Requirements
-* All unit tests must pass.
+* All unit tests must pass.  
 * Unit tests are located at ./src/test/java/SolutionTest.java
+* You may add unit tests, but you may not edit the ones that are currently there.  
 * The solution must be multi-threaded and showcase appropriate synchronization techniques.
 
 # Grading Criteria
