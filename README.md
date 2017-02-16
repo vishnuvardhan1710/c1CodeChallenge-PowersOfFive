@@ -1,20 +1,21 @@
 # Capital One Coding Exercise
 
-Thank you for taking the time to complete our coding exercise.
-We have chosen this exercise because it gives you an opportunity to show off your coding skills, and allows us to peer into your brilliant mind -- how you think, how you structure your code, and how you break down complex problems.
-The exercise is meant to be challenging.  Please don't let that turn you off.
+Thank you for taking the time to complete our coding exercise.  
+We have chosen this exercise because it gives you an opportunity to show off your coding skills, and allows us to peer into your brilliant mind -- how you think, how you structure your code, and how you break down complex problems.  
+The exercise is meant to be challenging.  
+Please don't let that turn you off.  
 
-If you accomplish this challenge, we'd like to talk to you ASAP!
+If you accomplish this challenge, we'd like to talk to you ASAP!  
 
 # Code Challenge - Powers of Five
 
-John loves powers of 5 (e.g., 1, 5, 25, 125, 625, …).
-He has a binary string, s, composed of 0's and 1's representing the bits of a binary number.
-John wants to know the minimum number of pieces, k, that he must split the string into such that each of the k pieces are binary representations of powers of 5 (with no leading zeroes).
-Note that this may not always be possible for every binary string s.
+John loves powers of 5 (e.g., 1, 5, 25, 125, 625, …).  
+He has a binary string, s, composed of 0's and 1's representing the bits of a binary number.  
+John wants to know the minimum number of pieces, k, that he must split the string into such that each of the k pieces are binary representations of powers of 5 (with no leading zeroes).  
+Note that this may not always be possible for every binary string s.  
 
-Complete the getMin function in your editor. It has 1 parameter: a string, s, consisting of 0's and/or 1's.
-It must return an integer denoting the value of k; if there is no such positive integer k, return −1.
+Complete the getMin function in your editor. It has 1 parameter: a string, s, consisting of 0's and/or 1's.  
+It must return an integer denoting the value of k; if there is no such positive integer k, return −1.  
 
 ##Input Format
 The locked stub code in your editor reads a binary string, s, from stdin and passes it to your function.
